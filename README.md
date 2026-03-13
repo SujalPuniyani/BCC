@@ -1,1 +1,1 @@
-# BCC-Day2
+# BCC
